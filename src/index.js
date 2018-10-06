@@ -1,5 +1,5 @@
 const {merge} = require('lodash/fp');
-const { sortByKeys, makeQueryString, prefixKeys, hash } = require('./lib/util');
+const {sortByKeys, makeQueryString, prefixKeys, hash} = require('./lib/util');
 
 function getPaymentLink(amount, merchantTxnRef, returnUrl)  {
   const secret = process.env.SH_SECRET;

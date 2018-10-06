@@ -1,8 +1,13 @@
 {
-  "name": "sh-sdk-nodejs",
+  "name": "shahry-sdk",
+  "description": "SDK for Shahry Payment Gateway",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "keywords": [
+    "API",
+    "shahry"
+  ],
   "scripts": {
     "start": "node src/index.js",
     "test": "mocha --reporter spec",
