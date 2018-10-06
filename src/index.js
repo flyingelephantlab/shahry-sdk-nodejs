@@ -32,4 +32,4 @@ function getPaymentLink(amount, merchantTxnRef, returnUrl)  {
   ].join('?');
 }
 
-module.exports = getPaymentLink;
+module.exports = {getPaymentLink};
