@@ -1,11 +1,13 @@
 {
   "name": "shahry-sdk",
   "description": "SDK for Shahry Payment Gateway",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "license": "MIT",
   "engineStrict": true,
-  "engines" : { "node" : ">=8" },
+  "engines": {
+    "node": ">=8"
+  },
   "keywords": [
     "API",
     "shahry"
