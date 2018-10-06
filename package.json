@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "engineStrict": true,
+  "engines" : { "node" : ">=8" },
   "keywords": [
     "API",
     "shahry"
