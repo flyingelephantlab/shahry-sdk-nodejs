@@ -1,4 +1,5 @@
 # Shahry Payment SDK : NodeJS
+[![Build Status](https://travis-ci.org/flyingelephantlab/shahry-sdk-nodejs.svg?branch=master)](https://travis-ci.org/flyingelephantlab/shahry-sdk-nodejs)
 
 this SDK provide single method `getPaymentLink` that generates a URL for processing payment with shahry payment gateway.
 
